@@ -1,4 +1,4 @@
-
+{
   "name": "سوق المفرق",
   "short_name": "SooqMafraq",
   "start_url": "https://testsooqalmafraq.blogspot.com/",
@@ -18,4 +18,5 @@
       "type": "image/png"
     }
   ]
+
 }

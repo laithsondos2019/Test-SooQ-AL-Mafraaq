@@ -1,13 +1,19 @@
 {
   "name": "سوق المفرق",
-  "short_name": "سوق المفرق",
-  "start_url": "/?source=pwa",
+  "short_name": "SooqMafraq",
+  "start_url": "https://testsooqalmafraq.blogspot.com/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#0056b3",
+  "theme_color": "#c62828",
+  "orientation": "portrait",
   "icons": [
     {
-      "src": "https://i.imgur.com/3g7QkZP.png",
+      "src": "https://testsooqalmafraq.blogspot.com/favicon.ico",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://testsooqalmafraq.blogspot.com/favicon.ico",
       "sizes": "512x512",
       "type": "image/png"
     }
